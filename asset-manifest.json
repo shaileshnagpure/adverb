@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7f6fb932.css",
+    "main.js": "/static/js/main.371009e7.js",
+    "static/js/563.47f960de.chunk.js": "/static/js/563.47f960de.chunk.js",
+    "static/js/606.94b93785.chunk.js": "/static/js/606.94b93785.chunk.js",
+    "static/js/787.9135311b.chunk.js": "/static/js/787.9135311b.chunk.js",
+    "static/js/419.9dfb1fff.chunk.js": "/static/js/419.9dfb1fff.chunk.js",
+    "static/js/163.b72d2f57.chunk.js": "/static/js/163.b72d2f57.chunk.js",
+    "static/media/AIEC.png": "/static/media/AIEC.de8fca16ea378cc75e5a.png",
+    "static/media/logo_white.png": "/static/media/logo_white.06e51b08bfa855d9fda1.png",
+    "static/media/BNB.png": "/static/media/BNB.12f6ca37a23eaa38e0a3.png",
+    "static/media/meta.svg": "/static/media/meta.c901ad3514ec230706287095d3842e69.svg",
+    "static/media/walletConnect.svg": "/static/media/walletConnect.a4166a89e44f223aee034139e12106c8.svg",
+    "static/media/coinbase.svg": "/static/media/coinbase.696943cca63f52af4b795ba8673e47f5.svg",
+    "index.html": "/index.html",
+    "static/media/usdt.svg": "/static/media/usdt.747cc29ad3c3c555fe70ed24bff40c5a.svg",
+    "main.7f6fb932.css.map": "/static/css/main.7f6fb932.css.map",
+    "main.371009e7.js.map": "/static/js/main.371009e7.js.map",
+    "787.9135311b.chunk.js.map": "/static/js/787.9135311b.chunk.js.map",
+    "419.9dfb1fff.chunk.js.map": "/static/js/419.9dfb1fff.chunk.js.map",
+    "163.b72d2f57.chunk.js.map": "/static/js/163.b72d2f57.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f6fb932.css",
+    "static/js/main.371009e7.js"
+  ]
+}
